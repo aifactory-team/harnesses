@@ -96,7 +96,7 @@ cp -r skills/* <your-project>/.claude/skills/
 
 ## 의존성
 
-- [cheliped-browser](https://github.com/anthropics/claude-code) — Chrome DevTools Protocol 기반 브라우저 자동화
+- [cheliped-browser](https://github.com/tykimos/cheliped-browser) — Chrome DevTools Protocol 기반 브라우저 자동화
 
 ## 실전 적용 사례
 
