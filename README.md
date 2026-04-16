@@ -8,7 +8,7 @@ Claude Code 에이전트 팀 하네스 컬렉션.
 
 | 하네스 | 설명 | 에이전트 | 스킬 | 의존스킬 |
 |--------|------|---------|------|---------|
-| [web-qa-test](./web-qa-test/) | 웹사이트 풀 QA 테스트 (크롤링, UI/UX, 접근성, SEO, 성능, 콘텐츠) | 3 | 1 | 1 ([cheliped-browser](https://github.com/tykimos/cheliped-browser)) |
+| [web-qa-test](./web-qa-test/) | 웹사이트 풀 QA 테스트 (크롤링, UI/UX, 접근성, SEO, 성능, 콘텐츠) | 3 | 1 | 1 |
 
 ## 사용법
 
