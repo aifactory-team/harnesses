@@ -1,4 +1,4 @@
-# AI Factory Harnesses
+# AIFactory Harnesses
 
 Claude Code 에이전트 팀 하네스 컬렉션.
 
