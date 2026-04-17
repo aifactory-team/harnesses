@@ -51,8 +51,8 @@
 ### 설치
 
 ```bash
-cp -r agents/* <your-project>/.claude/agents/
-cp -r skills/* <your-project>/.claude/skills/
+cp -r .claude/agents/* <your-project>/.claude/agents/
+cp -r .claude/skills/* <your-project>/.claude/skills/
 ```
 
 ### 실행
